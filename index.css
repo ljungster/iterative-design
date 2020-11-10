@@ -1,1 +1,35 @@
 /* Put your style information here! */
+.progress {
+    border-radius: 0;
+    background: #DCF1E2;
+}
+.progress-bar {
+    background-color: #2C7942;
+}
+
+.display-1 {
+    color: white;
+    background-color: black;
+}
+
+h3 {
+    color: darkgray;
+}
+
+nav {
+    background-color: black;
+    color: white;
+}
+
+.collapse {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.wireframes img {
+    max-width: 800px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #aaaaaa;
+}
